@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rifle</folder>
+	<filename>36.jpg</filename>
+	<path>G:\ML_facereg\cloned\Tensorflow\workspace\images\collectedimages\rifle\36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>762</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>23</ymin>
+			<xmax>692</xmax>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+</annotation>

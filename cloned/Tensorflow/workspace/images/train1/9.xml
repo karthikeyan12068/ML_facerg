@@ -1,0 +1,26 @@
+<annotation>
+	<folder>knife</folder>
+	<filename>9.jpg</filename>
+	<path>G:\ML_facereg\cloned\Tensorflow\workspace\images\collectedimages\knife\9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>74</ymin>
+			<xmax>147</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+</annotation>

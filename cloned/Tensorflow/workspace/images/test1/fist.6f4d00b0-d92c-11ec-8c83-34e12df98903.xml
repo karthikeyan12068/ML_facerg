@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fist</folder>
+	<filename>fist.6f4d00b0-d92c-11ec-8c83-34e12df98903.jpg</filename>
+	<path>G:\ML_facereg\cloned\Tensorflow\workspace\images\collectedimages\fist\fist.6f4d00b0-d92c-11ec-8c83-34e12df98903.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fist</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>451</xmin>
+			<ymin>30</ymin>
+			<xmax>640</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

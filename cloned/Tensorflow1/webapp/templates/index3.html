@@ -1,0 +1,37 @@
+{% extends 'base.html'%}
+{% block title %} 
+Project Determine
+{% endblock %}
+{% block content %} 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script
+      src="https://kit.fontawesome.com/d09e218dd5.js"
+      crossorigin="anonymous">
+    </script>
+    
+  </head>
+  <body>
+    <form class ="project" method="POST">
+        <label id="p3"><h1 id="p3-1">Welcome to Microsoft Project</h1></label>
+        <br>
+        <br>
+        <label id="p2"> For project 1 (Microsoft Tinder App):</label>
+        <br>
+        <br>
+        <label id="p1"> Paste http://127.0.0.1:5000/project1 in the URL</label>
+        <br>
+        <br>
+        <label id="p2"> For project 2 (Microsoft Crime detection):</label>
+        <br>
+        <br>
+        <label id="p1"> Paste http://127.0.0.1:5000/project2 in the URL</label>
+    </form>
+  </body>
+</html>
+
+{% endblock %}

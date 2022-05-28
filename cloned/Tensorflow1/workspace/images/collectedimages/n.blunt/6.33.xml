@@ -1,0 +1,26 @@
+<annotation>
+	<folder>n.blunt</folder>
+	<filename>6.33.jpg</filename>
+	<path>G:\ML_facereg\cloned\Tensorflow1\workspace\images\collectedimages\n.blunt\6.33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>208</width>
+		<height>242</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>n.blunt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>72</ymin>
+			<xmax>144</xmax>
+			<ymax>100</ymax>
+		</bndbox>
+	</object>
+</annotation>

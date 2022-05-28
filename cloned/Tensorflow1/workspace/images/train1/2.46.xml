@@ -1,0 +1,26 @@
+<annotation>
+	<folder>s.black</folder>
+	<filename>2.46.jpg</filename>
+	<path>G:\ML_facereg\cloned\Tensorflow1\workspace\images\collectedimages\s.black\2.46.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>s.black</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>70</ymin>
+			<xmax>144</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bomb</folder>
+	<filename>107.jpg</filename>
+	<path>G:\ML_facereg\cloned\Tensorflow\workspace\images\collectedimages\bomb\107.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>306</width>
+		<height>164</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bomb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>8</ymin>
+			<xmax>200</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>

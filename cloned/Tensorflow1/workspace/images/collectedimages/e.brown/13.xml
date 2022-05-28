@@ -1,0 +1,26 @@
+<annotation>
+	<folder>e.brown</folder>
+	<filename>13.jpg</filename>
+	<path>G:\ML_facereg\cloned\Tensorflow1\workspace\images\collectedimages\e.brown\13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>281</width>
+		<height>179</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>e.brown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>54</ymin>
+			<xmax>193</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,32 @@
+item { 
+	name:'b.y'
+	id:1
+}
+item { 
+	name:'e.brown'
+	id:2
+}
+item { 
+	name:'e.other'
+	id:3
+}
+item { 
+	name:'g.y'
+	id:4
+}
+item { 
+	name:'n.blunt'
+	id:5
+}
+item { 
+	name:'n.sharp'
+	id:6
+}
+item { 
+	name:'s.black'
+	id:7
+}
+item { 
+	name:'s.white'
+	id:8
+}

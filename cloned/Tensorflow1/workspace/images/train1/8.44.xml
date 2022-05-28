@@ -1,0 +1,26 @@
+<annotation>
+	<folder>e.other</folder>
+	<filename>8.44.jpg</filename>
+	<path>G:\ML_facereg\cloned\Tensorflow1\workspace\images\collectedimages\e.other\8.44.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>295</width>
+		<height>171</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>e.other</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>101</ymin>
+			<xmax>221</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+</annotation>

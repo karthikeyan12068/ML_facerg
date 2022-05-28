@@ -1,0 +1,26 @@
+<annotation>
+	<folder>n.sharp</folder>
+	<filename>7.49.jpg</filename>
+	<path>G:\ML_facereg\cloned\Tensorflow1\workspace\images\collectedimages\n.sharp\7.49.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>213</width>
+		<height>237</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>n.sharp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>69</ymin>
+			<xmax>105</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

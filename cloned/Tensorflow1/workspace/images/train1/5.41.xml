@@ -1,0 +1,26 @@
+<annotation>
+	<folder>b.y</folder>
+	<filename>5.41.jpg</filename>
+	<path>G:\ML_facereg\cloned\Tensorflow1\workspace\images\collectedimages\b.y\5.41.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>b.y</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>138</ymin>
+			<xmax>126</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

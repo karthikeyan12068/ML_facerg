@@ -1,0 +1,16 @@
+item { 
+	name:'fist'
+	id:1
+}
+item { 
+	name:'knife'
+	id:2
+}
+item { 
+	name:'pistol'
+	id:3
+}
+item { 
+	name:'rifle'
+	id:4
+}
