@@ -1,5 +1,7 @@
 # How to access project
 
+Note (Important) : If you dont have a G file try running it in F drive and change everything from G:\ to F:\ or any other drive names you prefer
+
 Step 1 : clone the website to G drive
 
 git clone https://github.com/karthikeyan12068/ML_facerg.git
