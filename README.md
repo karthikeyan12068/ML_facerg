@@ -28,7 +28,7 @@ Step2 : Copy the link to the textfield area and click submit
 # For projeect 2 (Tinder App) :
 
 Paste the link of project 2
-Step 1 : To take your picture put 'y' in the first text field and fill the other things in the other text fields
+Step 1 : To take your picture put 'y' in the first text field and fill the other things in the other text fields \n
 Step 2 : When camera opens to take pictures of you click spacebar and to exit the camera hit esc button in keyboard
 Step 3 : Hit submit button and it will test and train and give the name of the images 
 Step 4 : To see the images paste G:\ML_facereg\cloned\Tensorflow1\workspace\images\all\<img_name> in local computer to view the images
