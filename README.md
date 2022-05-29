@@ -2,7 +2,7 @@
 
 Step 1 : clone the website to G drive
 
-git clone <rep_name>
+git clone https://github.com/karthikeyan12068/ML_facerg.git
 
 Step 2 : Set up the virtual environment
 
